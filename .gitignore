@@ -1,0 +1,12 @@
+# IDEA
+*.iml
+.idea/
+
+# photo
+*.jpg
+*.jpeg
+*.png
+
+# file and xml
+XML/
+FileDemo/
