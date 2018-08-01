@@ -10,3 +10,7 @@
 # file and xml
 XML/
 FileDemo/
+
+# Java .class file
+out/
+*.class
